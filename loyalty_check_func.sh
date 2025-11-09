@@ -7,7 +7,7 @@
 
 here we learn how to write a function in a shell script
 syntax:(function defination)
-function function_name() {
+function_name() {
 ----
 ---
 --
@@ -47,5 +47,4 @@ check_loyality() {
 }
 
 check_loyality "$1" "$2" 
-
 
